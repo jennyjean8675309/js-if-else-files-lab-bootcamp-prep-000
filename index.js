@@ -1,8 +1,8 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 // Writing tests to practice our code.
 if (name === "Susan") {
-  console.log("The name is correct.")
+  console.log("The name is correct")
 } else {
   console.log("Expected the name to be Susan")
 }
